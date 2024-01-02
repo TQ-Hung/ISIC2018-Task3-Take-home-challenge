@@ -12,10 +12,10 @@
 *	Validate accuracy reached its peak at 0.7357 in 12th epoch.
 *	Prediction for test dataset hit 0.6905 accurate while its macro f1 score was 0.3993.
 
-##ResNet50:
+## ResNet50:
 *	Validate accuracy reached its peak at 0.8238 in 22th epoch.
 *	Prediction for test dataset hit 0.7540 accurate while its macro f1 score was 0.5529.
 
-##ResNet152:
+## ResNet152:
 *	Validate accuracy reached its peak at 0.8342 in 2th epoch.
 *	Prediction for test dataset hit 0.7539 accurate while its macro f1 score was 0.5529.
